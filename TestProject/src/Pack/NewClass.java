@@ -8,11 +8,15 @@ public class NewClass {
 		System.out.println("Hello");
 		
 		int i;
-		i = 6;
+		i = 2;
 		
 		if(i > 5)
 		{
 			System.out.print("It is greater than five");
+		}
+		else
+		{
+			System.out.print("No, it is less than five");
 		}
 		
 		
